@@ -5,7 +5,7 @@ Welcome to Chatty, a MERN stack-based real-time chat application that provides a
 
 ## Features
 - **User Authentication**: Secure sign-up and login process using JWT for password protection and authorization.
-![Alt text](image.png)
+![Alt text](image-3.png)
 - **Profile Customization**: Users can personalize their profiles by selecting a profile picture.
 ![Alt text](image-1.png)
 - **Real-Time Communication**: Built with socket.io to enable live chat between users without any delay.
