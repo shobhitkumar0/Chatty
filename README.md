@@ -1,7 +1,7 @@
 # SNAPPY Chat Application
 
 ## Introduction
-Welcome to SNAPPY, a MERN stack-based real-time chat application that provides a seamless chatting experience. With a sleek front-end designed in React.js and a robust Node.js backend, SNAPPY offers a secure and dynamic platform for users to communicate.
+Welcome to Chatty, a MERN stack-based real-time chat application that provides a seamless chatting experience. With a sleek front-end designed in React.js and a robust Node.js backend, SNAPPY offers a secure and dynamic platform for users to communicate.
 
 ## Features
 - **User Authentication**: Secure sign-up and login process using JWT for password protection and authorization.
@@ -12,8 +12,23 @@ Welcome to SNAPPY, a MERN stack-based real-time chat application that provides a
 ![Alt text](image-2.png)
 - **MVC Architecture**: Organized code structure in the public folder following the Model-View-Controller pattern.
 
+## Tools and Technology Used
+
+Chatty is built using a combination of modern and robust technologies that ensure a seamless and real-time chatting experience. Below is a list of the core tools and technologies used in the development of SNAPPY:
+
+- **MongoDB**: A NoSQL database used to store user data and chat messages efficiently.
+- **Express.js**: A web application framework for Node.js, designed for building web applications and APIs.
+- **React.js**: A JavaScript library for building user interfaces, powering the dynamic and responsive front-end.
+- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine, used for the server-side logic.
+- **Socket.io**: Enables real-time, bidirectional, and event-based communication between web clients and servers.
+- **JWT (JSON Web Tokens)**: Used for secure user authentication and maintaining session information.
+- **Multiavatar API**: An API utilized for generating unique and diverse avatars for user profiles.
+- **MVC Architecture**: The Model-View-Controller architectural pattern organizes the code structure and separates concerns within the application.
+
+These technologies work in unison to deliver a high-quality real-time chat application that is both scalable and maintainable.
+
 ## Installation
-To get started with SNAPPY, follow these steps:
+To get started with Chatty, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
@@ -50,12 +65,6 @@ Once the installation is complete:
 4. Start chatting with other users in real-time!
 
 ## Contributing
-Contributions to SNAPPY are always welcome. Whether it's bug fixes, feature additions, or improvements to the code, feel free to fork the repository and submit a pull request.
+Contributions to Chatty are always welcome. Whether it's bug fixes, feature additions, or improvements to the code, feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Acknowledgments
-- Socket.io for enabling real-time bidirectional event-based communication.
-- The React community for their continuous support and contributions.
- 
