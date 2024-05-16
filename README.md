@@ -1,4 +1,4 @@
-# SNAPPY Chat Application
+# Chatty-Chat Application
 
 ## Introduction
 Welcome to Chatty, a MERN stack-based real-time chat application that provides a seamless chatting experience. With a sleek front-end designed in React.js and a robust Node.js backend, SNAPPY offers a secure and dynamic platform for users to communicate.
