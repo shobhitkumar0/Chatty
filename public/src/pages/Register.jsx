@@ -47,12 +47,12 @@ export default function Register() {
       if (data.status === false) {
         toast.error(data.msg, toastOptions);
       }
-      
+      console.log(data);
       if (data.status === true) {
-      
+        
         localStorage.setItem(
           ("react-chat-app"),
-          JSON.stringify(data.emailnameCheck)
+          JSON.stringify(data.user)
         );
        
         navigate("/");
@@ -96,7 +96,7 @@ export default function Register() {
       <form action="" onSubmit={(event) => handleSubmit(event)}>
         <div className="brand">
           <img src={Logo} alt="logo" />
-          <h1>snappy</h1>
+          <h1>Chatty</h1>
         </div>
         <input
           type="text"

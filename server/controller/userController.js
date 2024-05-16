@@ -17,7 +17,8 @@ try{
     email,username,password:hashedPassword,
   });
   delete user.password;
-  return res.json({status:true,emailnameCheck});
+  
+  return res.json({status:true,user});
 
 }
 catch(error){
