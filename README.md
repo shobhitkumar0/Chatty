@@ -9,6 +9,7 @@ Welcome to SNAPPY, a MERN stack-based real-time chat application that provides a
 - **Profile Customization**: Users can personalize their profiles by selecting a profile picture.
 ![Alt text](image-1.png)
 - **Real-Time Communication**: Built with socket.io to enable live chat between users without any delay.
+![Alt text](image-2.png)
 - **MVC Architecture**: Organized code structure in the public folder following the Model-View-Controller pattern.
 
 ## Installation
